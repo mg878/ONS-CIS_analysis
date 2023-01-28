@@ -9,4 +9,4 @@ Ghafari et al.: High number of SARS-CoV-2 persistent infections uncovered throug
 
 `reinfections.csv`: Contains a list of COG-UK IDs and sequence collection dates for all the 60 reinfections.
 
-***seqNames_phylogenetic_trees*** folder includes the COG-UK IDs and sequence collection dates for the all ONS-CIS sequences (including those from persistent infections and reinfections) used in the phylogenetic tree construction for Alpha, Delta, Omicron BA.1 and Omicron BA.2 trees.
+***seqNames_phylogenetic_trees*** folder contains COG-UK IDs and sequence collection dates for the all ONS-CIS sequences (including those from persistent infections and reinfections) used in the phylogenetic tree construction for Alpha, Delta, Omicron BA.1 and Omicron BA.2 trees.
